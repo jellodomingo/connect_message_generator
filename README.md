@@ -2,7 +2,7 @@
 
 *USE THIS WISELY*
 
-A really quick Python script to create connect messages used on the job hunt. 
+A really quick Python script to create connect messages from message templates for LinkedIn.
 
 There are three folders you need to have.
 - connection_messages
