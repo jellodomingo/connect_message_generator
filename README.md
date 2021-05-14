@@ -1,5 +1,7 @@
 # LinkedIn Connect Message Generator
 
+*USE THIS WISELY*
+
 A really quick Python script to create connect messages used on the job hunt. 
 
 There are three folders you need to have.
