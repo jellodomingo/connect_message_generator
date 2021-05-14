@@ -13,9 +13,7 @@ This folder should contain text files that will have the connect message that yo
 
 Example:
 
-```
-Hi there, I am very interested in your [company]. I would love the chance for a 10 minute chat to see if I am a great fit; if not now then maybe in the future. I am looking for a role as a [position] in your company. Please let me know if there is someone else on your team that I should reach out to instead. 
-```
+> Hi there, I am very interested in your [company]. I would love the chance for a 10 minute chat to see if I am a great fit; if not now then maybe in the future. I am looking for a role as a [position] in your company. Please let me know if there is someone else on your team that I should reach out to instead. 
 
 ### Connection Values Json folder
 
