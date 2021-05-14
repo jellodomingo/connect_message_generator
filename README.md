@@ -1,4 +1,4 @@
-# Connect Message Generator
+# LinkedIn Connect Message Generator
 
 A really quick Python script to create connect messages used on the job hunt. 
 
